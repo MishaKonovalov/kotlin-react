@@ -12,7 +12,7 @@ import react.fc
 import react.useState
 import styled.*
 
-class FormControl(
+data class FormControl(
     val label: String,
     val placeHolder: String,
     val name: String,
