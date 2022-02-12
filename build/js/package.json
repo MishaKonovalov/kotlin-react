@@ -1,0 +1,24 @@
+{
+  "name": "kotlin-react-practice",
+  "version": "1.0-SNAPSHOT",
+  "private": true,
+  "workspaces": [
+    "packages/kotlin-react-practice",
+    "packages/kotlin-react-practice-test",
+    "packages_imported/kotlin/1.6.10",
+    "packages_imported/kotlin-react/17.0.2-pre.240-kotlin-1.5.30",
+    "packages_imported/kotlin-extensions/1.0.1-pre.240-kotlin-1.5.30",
+    "packages_imported/kotlin-react-dom/17.0.2-pre.240-kotlin-1.5.30",
+    "packages_imported/kotlinx-html-js/0.7.3",
+    "packages_imported/kotlin-styled/5.3.1-pre.240-kotlin-1.5.30",
+    "packages_imported/kotlin-css/1.0.0-pre.240-kotlin-1.5.30",
+    "packages_imported/kotlin-test-js-runner/1.6.10",
+    "packages_imported/kotlin-test/1.6.10"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

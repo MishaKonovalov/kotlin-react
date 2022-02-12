@@ -1,0 +1,44 @@
+{
+  "version": "9",
+  "items": {
+    "ed032da5c8a8aa561a34ad2ce16c6fef": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.6.10/c5ec19c0cb2291017562f852321b4cfcc8064150/kotlin-stdlib-js-1.6.10.jar",
+      "target": "kotlin/1.6.10"
+    },
+    "eb99eba8e3875878ac955c380a5f6ac2": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.10/c118700e3a33c8a0d9adc920e9dec0831171925/kotlin-stdlib-common-1.6.10.jar"
+    },
+    "d0404ef598daf9ad9017fc2ca4b84e5f": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react/17.0.2-pre.240-kotlin-1.5.30/f897cc95e6f8fc8f9067d52726b6605bdec6310c/kotlin-react-17.0.2-pre.240-kotlin-1.5.30.jar",
+      "target": "kotlin-react/17.0.2-pre.240-kotlin-1.5.30"
+    },
+    "060b78baf223134821b9774952217229": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.240-kotlin-1.5.30/345f520db3f909c32885b55641a1df27eff68abd/kotlin-extensions-1.0.1-pre.240-kotlin-1.5.30.jar",
+      "target": "kotlin-extensions/1.0.1-pre.240-kotlin-1.5.30"
+    },
+    "19fa0f23550a534d03cd14c6db8dba7e": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-dom/17.0.2-pre.240-kotlin-1.5.30/a1bc58beb0dbe19fed4a985a4d3cac800e7bb930/kotlin-react-dom-17.0.2-pre.240-kotlin-1.5.30.jar",
+      "target": "kotlin-react-dom/17.0.2-pre.240-kotlin-1.5.30"
+    },
+    "c880d38851a2e171d22b75c6e754af7d": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.3/93a1ab4269d3a567e05088d1237eedbc2efd03c9/kotlinx-html-jslegacy-0.7.3.jar",
+      "target": "kotlinx-html-js/0.7.3"
+    },
+    "420f9070abaf22d862a7870c8fa94766": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-styled/5.3.1-pre.240-kotlin-1.5.30/33ae5a1c5618d4405b9624db80a831f006438b38/kotlin-styled-5.3.1-pre.240-kotlin-1.5.30.jar",
+      "target": "kotlin-styled/5.3.1-pre.240-kotlin-1.5.30"
+    },
+    "4c65838bc3295ef876bec041e6ba2144": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-css-js/1.0.0-pre.240-kotlin-1.5.30/ed74e765935da96646b46335c7cabe5460c4107f/kotlin-css-jslegacy-1.0.0-pre.240-kotlin-1.5.30.jar",
+      "target": "kotlin-css/1.0.0-pre.240-kotlin-1.5.30"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.6.10/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.6.10.jar",
+      "target": "kotlin-test-js-runner/1.6.10"
+    },
+    "fcd62bcdff404b8751a46a32a04ffe15": {
+      "src": "/Users/polzovatel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.6.10/bb40521e101f15c6a9e86be85e0fae5f2349beb3/kotlin-test-js-1.6.10.jar",
+      "target": "kotlin-test/1.6.10"
+    }
+  }
+}
